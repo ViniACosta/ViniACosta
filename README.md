@@ -1,8 +1,8 @@
 ## 👋Olá Eu sou a Vinicius Costa, 🖥️ Engenheiro de Software | Especialista em Front-End!
 
 <div>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=viniacosta&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=holi">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniacosta&langs_count=16&theme=holi">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=viniacosta&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=holi">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniacosta&langs_count=16&theme=holi">
 </div>
 
 <div style="display: inline_block"><br>
