@@ -21,14 +21,15 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 ##
 <h3 align="left">My Stack </h3>
 <div style="display: inline_block" align="left"><br>
+  <img align="center" alt="Vini-React" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg?short_path=414a56a">
   <img align="center" alt="Vini-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vini-Ts" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Vini-Ts" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="Vini-React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vini-React" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="Vini-React" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Vini-React" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg?short_path=414a56a">
 </div>
   
   ##
