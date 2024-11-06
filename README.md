@@ -12,8 +12,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=0088FF&backgroundcolor:0088FF)](mailto:viniciusalves.pcosta@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0088FF&color:0088FF)](https://www.linkedin.com/in/mari4souza/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0088FF&color:0088FF)](https://www.instagram.com/mari4.souza/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0088FF&color:0088FF)](https://www.linkedin.com/in/viniciusf-alves-costa/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0088FF&color:0088FF)](https://www.instagram.com/)
 
 
 
