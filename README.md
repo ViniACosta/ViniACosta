@@ -1,15 +1,26 @@
-## 👋Olá Eu sou a Vinicius Costa, 🖥️ Engenheiro de Software | Especialista em Front-End!
-
-<br>
-
-<div>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=viniacosta&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=holi">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniacosta&langs_count=16&theme=holi">
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0088FF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%E2%8A%B9+" alt="Typing SVG">
+  </a>
 </div>
 
-##
+<p align="center">Estudante de Engenharia de Software na Universidade Católica de Brasília. Atualmente trabalho com Front-End e estudo Java paralelamente.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
-<div style="display: inline_block"><br>
+#
+
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=0088FF&backgroundcolor:0088FF)](mailto:viniciusalves.pcosta@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0088FF&color:0088FF)](https://www.linkedin.com/in/mari4souza/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0088FF&color:0088FF)](https://www.instagram.com/mari4.souza/)
+
+
+
+
+##
+<h3 align="left">My Stack </h3>
+<div style="display: inline_block" align="left"><br>
   <img align="center" alt="Vini-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,13 +32,12 @@
 </div>
   
   ##
- 
-<div> 
-  
-  <a href="https://www.linkedin.com/in/viniciusf-alves-costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:viniciusalves.pcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/vini_avs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  </div>
+ <div style="text-align: center;" align="center">
+  <h3>GitHub Stats</h3>
+  <br>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=viniacosta&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=holi">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniacosta&langs_count=16&theme=holi">
+</div>
   
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viniacosta/viniacosta/output/github-contribution-grid-snake-dark.svg">
