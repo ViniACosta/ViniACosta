@@ -32,4 +32,4 @@
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Vinicius Costa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniacosta&show_icons=true&theme=dracula)
+![Vinicius Costa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniacosta&show_icons=true&theme=radical)
