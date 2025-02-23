@@ -23,12 +23,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
