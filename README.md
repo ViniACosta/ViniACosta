@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, Eu sou o Vinicius, um Engenheiro de Software Especialista em Front-End apaixonado pelo que faz!</h1>
+<h1>👋 &nbsp;Olá, Eu sou o Vinicius, um Engenheiro de Software Desenvolvedor Full-Stack Java apaixonado pelo que faz!</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/viniciusf-alves-costa/"><img src="https://img.shields.io/badge/-Vinicius%20Alves%20Costa-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:viniciusalves.pcosta@gmail.com"><img src="https://img.shields.io/badge/-viniciusalves.pcosta@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
