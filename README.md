@@ -1,6 +1,6 @@
 <h1><bold>Hello, I'm Vinicius, a Software Engineer in training and ServiceNow Developer</bold></h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/viniciusf-alves-costa/"><img src="https://img.shields.io/badge/-Vinicius%20Alves%20Costa-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/viniciusalvescosta-dev/"><img src="https://img.shields.io/badge/-Vinicius%20Alves%20Costa-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:viniciusalves.pcosta@gmail.com"><img src="https://img.shields.io/badge/-viniciusalves.pcosta@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
