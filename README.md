@@ -1,14 +1,17 @@
-<h1> &nbsp;Olá, Eu sou o Vinicius, um Engenheiro de Software em formação e ServiceNow Developer!</h1>
+<h1><bold>Hello, I'm Vinicius, a Software Engineer in training and ServiceNow Developer</bold></h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/viniciusf-alves-costa/"><img src="https://img.shields.io/badge/-Vinicius%20Alves%20Costa-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:viniciusalves.pcosta@gmail.com"><img src="https://img.shields.io/badge/-viniciusalves.pcosta@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+<h2><bold>About Me</bold></h2>
 
-- 👨🏻‍💻 &nbsp;Aos 15 anos, um simples atalho me levou ao console do navegador. Inicialmente um erro, logo se tornou uma descoberta fascinante. Com poucos comandos, eu podia modificar elementos da página em tempo real. Movido pela curiosidade, mergulhei em tutoriais e documentações, desvendando a lógica por trás do código. Cada nova linha escrita era uma conquista, transformando curiosidade em paixão. Percebi que programar não era apenas comandos, mas a arte de dar vida a ideias. Naquele momento, soube que esse seria o caminho que eu seguiria para sempre!
- 
+Software Engineer passionate about building scalable, maintainable and high-quality software.
+Currently working as a Back-End Java Developer while specializing in the ServiceNow platform, developing enterprise solutions focused on process automation, workflow optimization and digital transformation.
+My experience includes Java, Spring Boot, REST & SOAP APIs, SQL, JavaScript, ServiceNow, Git and Agile methodologies. I enjoy designing clean architectures, writing maintainable code and solving complex problems through technology.
+Here you'll find projects that showcase my learning journey, technical skills and commitment to software engineering best practices, including Clean Code, SOLID principles and continuous improvement. 
+I'm always looking for new challenges that allow me to learn, build impactful solutions and grow as a software engineer.
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
