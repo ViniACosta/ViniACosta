@@ -13,6 +13,7 @@ My experience includes Java, Spring Boot, REST & SOAP APIs, SQL, JavaScript, Ser
 Here you'll find projects that showcase my learning journey, technical skills and commitment to software engineering best practices, including Clean Code, SOLID principles and continuous improvement. 
 I'm always looking for new challenges that allow me to learn, build impactful solutions and grow as a software engineer.
 
+![ServiceNow](https://img.shields.io/badge/-servicenow-81b5a1?style=flat&logo=ServiceNow)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
