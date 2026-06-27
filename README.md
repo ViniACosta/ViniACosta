@@ -7,10 +7,10 @@
 
 <h2><bold>About Me</bold></h2>
 
-Software Engineer passionate about building scalable, maintainable and high-quality software.
-Currently working as a Back-End Java Developer while specializing in the ServiceNow platform, developing enterprise solutions focused on process automation, workflow optimization and digital transformation.
-My experience includes Java, Spring Boot, REST & SOAP APIs, SQL, JavaScript, ServiceNow, Git and Agile methodologies. I enjoy designing clean architectures, writing maintainable code and solving complex problems through technology.
-Here you'll find projects that showcase my learning journey, technical skills and commitment to software engineering best practices, including Clean Code, SOLID principles and continuous improvement. 
+Software Engineer passionate about building scalable, maintainable and high-quality software.</br>
+Currently working as a Back-End Java Developer while specializing in the ServiceNow platform, developing enterprise solutions focused on process automation, workflow optimization and digital transformation.</br>
+My experience includes Java, Spring Boot, REST & SOAP APIs, SQL, JavaScript, ServiceNow, Git and Agile methodologies. I enjoy designing clean architectures, writing maintainable code and solving complex problems through technology.</br>
+Here you'll find projects that showcase my learning journey, technical skills and commitment to software engineering best practices, including Clean Code, SOLID principles and continuous improvement.</br>
 I'm always looking for new challenges that allow me to learn, build impactful solutions and grow as a software engineer.
 
 ![ServiceNow](https://img.shields.io/badge/-ServiceNow-81b5a1?style=flat&logo=ServiceNow)
